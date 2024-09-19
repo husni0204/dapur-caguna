@@ -1,0 +1,12 @@
+# Ignore artifacts:
+build
+coverage
+node_modules
+.eslintrc.cjs
+.gitignore
+.prettierignore
+.prettierrc
+package.json
+README.md
+vite.config.js
+yarn.lock
